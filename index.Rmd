@@ -1,7 +1,7 @@
 ---
 title: "Hysterical women or emotionless society?"
 author: "Elijah Samuel, Ariyamala Sivakumar"
-date: "10/13/2021"
+date: "10/30/2021"
 output: html_document
 ---
 ```{r load_libraries, message=FALSE, warning = FALSE, include = FALSE}
@@ -51,6 +51,8 @@ The graphs have been created as discrete visualizations, as we were unable to re
 ## Data visualisation 1
 
 Before we begin to discuss the implications of the positive and negative characters, it’s useful to consider an outlier. In Middlemarch, George Elliot quotes Pilgrim's Progress in chapter 85. However, the quote refers to characters named after negative emotions and feelings - Mr Malice, Mr Liar, Mr Enimity, Mr Cruelty etc. This skews the data that Middlemarch provides us for the most negatively viewed characters, thereby also negating our comparison between this and that of its positive characters. For this reason, we removed these characters to hopefully show us a more accurate representation of the negative characters. Multiple other texts have mildly skewed data due to references to other books; another notable example is Daniel Deronda having multiple negative references to Paradise, Pilgrim and Madonna Pia, based on the references the text makes to older texts like the Divine Comedy and Paradise Lost.
+
+Due to time restraints and with permission from Professor, the data used from the Gaskell corpus has not been cleaned, and is raw data. For that reason, there might be some weird names or patterns in the visualisations.
 
 Eliot’s radar plots show variations in female versus male characters, with more emotionally ranging female characters and more emotionally nonchalant male characters, as one can see with the almost concentrated radar plots for Eliot’s men when compared to Gaskell’s men. While there are instances of this, there aren't enough consistencies to support the same. For example, Mary has a wildly emotional radar plot, but Aunt Alice has a closed, centred radar plot. Some of the men have extremely emotional radar plots in Eliot’s novels. Most of Gaskell’s novels indeed have a higher range of emotion, either high or centred. Gaskell also has a larger variety of emotions, with some characters showing immense joy and fear while others show immense trust and anticipation. 
 
