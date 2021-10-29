@@ -1,0 +1,367 @@
+"","author","title","words","kind","total","appearance"
+"1","Eliot, George","Middlemarch","Abraham","person",4,1
+"2","Eliot, George","Middlemarch","Adam Smith","person",0.5,2
+"3","Eliot, George","Middlemarch","Adolf Naumann","person",2,2
+"4","Eliot, George","Middlemarch","Africa","location",-1,1
+"5","Eliot, George","Middlemarch","Alban Mountains","location",6,1
+"6","Eliot, George","Middlemarch","Alexander","person",4,1
+"7","Eliot, George","Middlemarch","Alfred","person",0.8,10
+"8","Eliot, George","Middlemarch","America","location",-0.25,4
+"9","Eliot, George","Middlemarch","Amy","person",3,3
+"10","Eliot, George","Middlemarch","Anne","person",2.75652173913043,115
+"11","Eliot, George","Middlemarch","Aphis Brassicae","person",4,1
+"12","Eliot, George","Middlemarch","Aquinas","person",9.71428571428571,7
+"13","Eliot, George","Middlemarch","Archie Duncan","person",0,1
+"14","Eliot, George","Middlemarch","Ariel","location",2,1
+"15","Eliot, George","Middlemarch","Aristotle","person",4,1
+"16","Eliot, George","Middlemarch","Arthur","person",1.33333333333333,6
+"17","Eliot, George","Middlemarch","Arthur Brooke","person",2.32300884955752,226
+"18","Eliot, George","Middlemarch","Asia","location",4,1
+"19","Eliot, George","Middlemarch","Aunt Julia","person",4.16666666666667,6
+"20","Eliot, George","Middlemarch","Bailey","person",2,1
+"21","Eliot, George","Middlemarch","Baltic","location",1,2
+"22","Eliot, George","Middlemarch","Banks","person",9,1
+"23","Eliot, George","Middlemarch","Beatrice","person",4,1
+"24","Eliot, George","Middlemarch","Bilkley","location",-0.75,4
+"25","Eliot, George","Middlemarch","Bill","person",2.69230769230769,65
+"26","Eliot, George","Middlemarch","Bob","person",0,2
+"27","Eliot, George","Middlemarch","Borthrop Trumbull","person",4.38461538461539,13
+"28","Eliot, George","Middlemarch","Boston","location",12,1
+"29","Eliot, George","Middlemarch","Botany Bay","location",3,1
+"30","Eliot, George","Middlemarch","Brassing","location",2.11111111111111,18
+"31","Eliot, George","Middlemarch","Brenda Troilshe","person",0,1
+"32","Eliot, George","Middlemarch","Britain","location",8,2
+"33","Eliot, George","Middlemarch","Bunch","person",0.5,4
+"34","Eliot, George","Middlemarch","Bunyan","location",0,2
+"35","Eliot, George","Middlemarch","Burke","person",-3.66666666666667,6
+"36","Eliot, George","Middlemarch","Butler","person",3.375,8
+"37","Eliot, George","Middlemarch","Byron","person",-1,1
+"38","Eliot, George","Middlemarch","Caleb Garth","person",1.06382978723404,141
+"39","Eliot, George","Middlemarch","Calvin","person",5,1
+"40","Eliot, George","Middlemarch","Cambridge","location",24,1
+"41","Eliot, George","Middlemarch","Captain Lydgate","person",5.44444444444444,9
+"42","Eliot, George","Middlemarch","Carter","person",2.33333333333333,3
+"43","Eliot, George","Middlemarch","castle","person",10.6666666666667,3
+"44","Eliot, George","Middlemarch","Catherine","person",15,1
+"45","Eliot, George","Middlemarch","Celia Brooke","person",1.75242718446602,206
+"46","Eliot, George","Middlemarch","Ceres","location",6,1
+"47","Eliot, George","Middlemarch","Chad","location",0,1
+"48","Eliot, George","Middlemarch","Chad","person",0,1
+"49","Eliot, George","Middlemarch","Charles","person",3.66666666666667,3
+"50","Eliot, George","Middlemarch","Charles James Fox","person",10,1
+"51","Eliot, George","Middlemarch","China","location",9,2
+"52","Eliot, George","Middlemarch","Christy","person",3.33333333333333,9
+"53","Eliot, George","Middlemarch","Clarence","person",16,1
+"54","Eliot, George","Middlemarch","Cleveland","location",0,1
+"55","Eliot, George","Middlemarch","Cliff","person",-1,1
+"56","Eliot, George","Middlemarch","Cranch","person",0.125,8
+"57","Eliot, George","Middlemarch","Daniel","person",-1,1
+"58","Eliot, George","Middlemarch","Dante","person",3,2
+"59","Eliot, George","Middlemarch","Der Neffe","person",0,1
+"60","Eliot, George","Middlemarch","Devil","location",-1.61111111111111,18
+"61","Eliot, George","Middlemarch","Devils","location",-2.66666666666667,3
+"62","Eliot, George","Middlemarch","Diana","person",0,1
+"63","Eliot, George","Middlemarch","Doctor Gambit","person",12,2
+"64","Eliot, George","Middlemarch","Doctor Graveface","person",0,1
+"65","Eliot, George","Middlemarch","Doctor Lydgate","person",8.66666666666667,3
+"66","Eliot, George","Middlemarch","Don Quijote","person",1,1
+"67","Eliot, George","Middlemarch","Don Quixote","person",9,1
+"68","Eliot, George","Middlemarch","Dorothea Brooke","person",1.26388888888889,792
+"69","Eliot, George","Middlemarch","Dr Minchin","person",-0.105263157894737,19
+"70","Eliot, George","Middlemarch","Dr Spanning","person",7,2
+"71","Eliot, George","Middlemarch","Dr Sprague","person",1.53846153846154,13
+"72","Eliot, George","Middlemarch","Earl","person",3.15753424657534,146
+"73","Eliot, George","Middlemarch","earth","location",2.66666666666667,48
+"74","Eliot, George","Middlemarch","Easter","person",-0.333333333333333,3
+"75","Eliot, George","Middlemarch","Eden","person",1,15
+"76","Eliot, George","Middlemarch","Edinburgh","location",11.3333333333333,3
+"77","Eliot, George","Middlemarch","Edward Thesiger","person",12,1
+"78","Eliot, George","Middlemarch","Egypt","location",1,2
+"79","Eliot, George","Middlemarch","Elinor Cadwallader","person",0.166666666666667,6
+"80","Eliot, George","Middlemarch","Elizabeth","person",0.5,2
+"81","Eliot, George","Middlemarch","Elle","person",4.77142857142857,105
+"82","Eliot, George","Middlemarch","Ellen","person",10.2727272727273,33
+"83","Eliot, George","Middlemarch","England","location",4.6,5
+"84","Eliot, George","Middlemarch","Europe","location",4,3
+"85","Eliot, George","Middlemarch","Far West","location",3,1
+"86","Eliot, George","Middlemarch","Fox","location",3.4,5
+"87","Eliot, George","Middlemarch","Francis","person",7,2
+"88","Eliot, George","Middlemarch","Frank Hawley","person",1.42857142857143,7
+"89","Eliot, George","Middlemarch","Fred Vincy","person",1.22795698924731,465
+"90","Eliot, George","Middlemarch","Frederic","person",6,1
+"91","Eliot, George","Middlemarch","Freeman","person",1,2
+"92","Eliot, George","Middlemarch","French","location",4.44444444444444,9
+"93","Eliot, George","Middlemarch","Fresh","location",2.89024390243902,82
+"94","Eliot, George","Middlemarch","Freshitt","location",6.1,30
+"95","Eliot, George","Middlemarch","Freshitt Hall","location",5.14285714285714,7
+"96","Eliot, George","Middlemarch","George","person",10,6
+"97","Eliot, George","Middlemarch","Germany","location",-5,1
+"98","Eliot, George","Middlemarch","Gil","person",-5.75,8
+"99","Eliot, George","Middlemarch","Godwin","person",6.5,20
+"100","Eliot, George","Middlemarch","Godwin Lydgate","person",11,4
+"101","Eliot, George","Middlemarch","Grant","person",4.88235294117647,17
+"102","Eliot, George","Middlemarch","Gray","person",0.875,32
+"103","Eliot, George","Middlemarch","Greece","location",1,2
+"104","Eliot, George","Middlemarch","Guinea","location",3.5,8
+"105","Eliot, George","Middlemarch","Guy Faux","person",1,1
+"106","Eliot, George","Middlemarch","Hades","location",3.33333333333333,3
+"107","Eliot, George","Middlemarch","Hanover","location",2,1
+"108","Eliot, George","Middlemarch","Harriet Bulstrode","person",1.04166666666667,24
+"109","Eliot, George","Middlemarch","Harry","person",-2,2
+"110","Eliot, George","Middlemarch","Harry Toller","person",-3,1
+"111","Eliot, George","Middlemarch","Hawley","person",0.0338983050847458,59
+"112","Eliot, George","Middlemarch","Henrietta Noble","person",5.4,5
+"113","Eliot, George","Middlemarch","Henry","person",7,3
+"114","Eliot, George","Middlemarch","Hicks","person",-0.5,4
+"115","Eliot, George","Middlemarch","Hill","location",1.625,40
+"116","Eliot, George","Middlemarch","Hiram","person",0.714285714285714,7
+"117","Eliot, George","Middlemarch","Hiram Ford","person",6.33333333333333,3
+"118","Eliot, George","Middlemarch","Hopkins","person",5,2
+"119","Eliot, George","Middlemarch","Howe","person",2.22222222222222,144
+"120","Eliot, George","Middlemarch","Humphry Davy","person",9.5,2
+"121","Eliot, George","Middlemarch","India","location",-2,2
+"122","Eliot, George","Middlemarch","Israel","location",4,1
+"123","Eliot, George","Middlemarch","Italy","location",4.5,2
+"124","Eliot, George","Middlemarch","Jack","person",0.8,5
+"125","Eliot, George","Middlemarch","Jacob","person",-3,1
+"126","Eliot, George","Middlemarch","Jane","person",4.35714285714286,14
+"127","Eliot, George","Middlemarch","Jane Featherstone","person",15.5,2
+"128","Eliot, George","Middlemarch","Jeremy Taylor","person",3,1
+"129","Eliot, George","Middlemarch","Jerusalem","location",-2,2
+"130","Eliot, George","Middlemarch","Jim","person",-0.8,5
+"131","Eliot, George","Middlemarch","John Bull","person",-1,1
+"132","Eliot, George","Middlemarch","John Long","person",-0.5,2
+"133","Eliot, George","Middlemarch","John Milton","person",2.5,2
+"134","Eliot, George","Middlemarch","John Raffles","person",0.333333333333333,3
+"135","Eliot, George","Middlemarch","John Waule","person",-4,2
+"136","Eliot, George","Middlemarch","Johnson","person",1.75,4
+"137","Eliot, George","Middlemarch","Joseph","person",5.5,2
+"138","Eliot, George","Middlemarch","Josephus","person",10,1
+"139","Eliot, George","Middlemarch","Josh","person",1.44444444444444,18
+"140","Eliot, George","Middlemarch","Joshua Rigg","person",2.8,10
+"141","Eliot, George","Middlemarch","Jove","person",0.857142857142857,7
+"142","Eliot, George","Middlemarch","Joy","person",4.12037037037037,108
+"143","Eliot, George","Middlemarch","Julia","person",4.16666666666667,6
+"144","Eliot, George","Middlemarch","Jupiter","location",1,1
+"145","Eliot, George","Middlemarch","Kate","location",-2,2
+"146","Eliot, George","Middlemarch","Kate","person",-2,2
+"147","Eliot, George","Middlemarch","King James","person",-4,1
+"148","Eliot, George","Middlemarch","Kitty","person",0.222222222222222,9
+"149","Eliot, George","Middlemarch","Ladies","person",6.13636363636364,44
+"150","Eliot, George","Middlemarch","Lafitte","person",1,1
+"151","Eliot, George","Middlemarch","Lane","person",2.21052631578947,19
+"152","Eliot, George","Middlemarch","Latin","location",2.15,20
+"153","Eliot, George","Middlemarch","Latin","person",2.15,20
+"154","Eliot, George","Middlemarch","Laura","person",4,1
+"155","Eliot, George","Middlemarch","Lausanne","location",2.6,5
+"156","Eliot, George","Middlemarch","Leeds","location",6,1
+"157","Eliot, George","Middlemarch","Leo","person",5.57142857142857,7
+"158","Eliot, George","Middlemarch","Leonard Lamb","person",8,1
+"159","Eliot, George","Middlemarch","Letty","location",1.2,30
+"160","Eliot, George","Middlemarch","Lindley Murray","person",0,2
+"161","Eliot, George","Middlemarch","Lisa","person",2,1
+"162","Eliot, George","Middlemarch","Liverpool","location",5,1
+"163","Eliot, George","Middlemarch","Loamford","location",8,1
+"164","Eliot, George","Middlemarch","London","location",4,32
+"165","Eliot, George","Middlemarch","Lord","person",2.13725490196078,51
+"166","Eliot, George","Middlemarch","Lord Chancellors","person",4,1
+"167","Eliot, George","Middlemarch","Lord Grey","person",8,1
+"168","Eliot, George","Middlemarch","Lord Grinsell","person",1,2
+"169","Eliot, George","Middlemarch","Lord John Russell","person",0,1
+"170","Eliot, George","Middlemarch","Lord Medlicote","person",2.2,5
+"171","Eliot, George","Middlemarch","Lord Megatherium","person",0,1
+"172","Eliot, George","Middlemarch","Lord Plessy","person",-2,1
+"173","Eliot, George","Middlemarch","Lord Tapir","person",0,1
+"174","Eliot, George","Middlemarch","Lord Triton","person",2,3
+"175","Eliot, George","Middlemarch","Lords","location",5.14285714285714,14
+"176","Eliot, George","Middlemarch","Louisa","person",4.5,6
+"177","Eliot, George","Middlemarch","Lowick","location",2.7109375,128
+"178","Eliot, George","Middlemarch","Lowick Gate","location",1.54545454545455,11
+"179","Eliot, George","Middlemarch","Lucy","person",-0.4,5
+"180","Eliot, George","Middlemarch","Mab","person",5.5,6
+"181","Eliot, George","Middlemarch","Madonna","person",-0.333333333333333,3
+"182","Eliot, George","Middlemarch","Mammon","person",1,1
+"183","Eliot, George","Middlemarch","Manchester","location",6,1
+"184","Eliot, George","Middlemarch","Mangnall","location",0,1
+"185","Eliot, George","Middlemarch","Maria","person",0,1
+"186","Eliot, George","Middlemarch","Mark","person",2.90123456790123,162
+"187","Eliot, George","Middlemarch","Marlowe","person",1,1
+"188","Eliot, George","Middlemarch","Martha","person",1.35294117647059,17
+"189","Eliot, George","Middlemarch","Martin","person",-0.857142857142857,7
+"190","Eliot, George","Middlemarch","Marty","person",-1.83333333333333,6
+"191","Eliot, George","Middlemarch","Mary Garth","person",1.54938271604938,324
+"192","Eliot, George","Middlemarch","Merry","person",4.23076923076923,13
+"193","Eliot, George","Middlemarch","Michaelmas","location",14,2
+"194","Eliot, George","Middlemarch","Middlemarch","location",3.39662447257384,237
+"195","Eliot, George","Middlemarch","Mill","location",2.125,8
+"196","Eliot, George","Middlemarch","Mill A","person",0,1
+"197","Eliot, George","Middlemarch","Milton","person",4.6,5
+"198","Eliot, George","Middlemarch","Miss Brooke","person",3.47058823529412,51
+"199","Eliot, George","Middlemarch","Miss Garth","person",4.38888888888889,18
+"200","Eliot, George","Middlemarch","Monsieur","person",-3.66666666666667,3
+"201","Eliot, George","Middlemarch","Monsieur Liret","person",-3.66666666666667,3
+"202","Eliot, George","Middlemarch","Morgan","person",0.2,5
+"203","Eliot, George","Middlemarch","Moses","person",4,1
+"204","Eliot, George","Middlemarch","Mr Baldwin","person",0,2
+"205","Eliot, George","Middlemarch","Mr Bambridge","person",1.54545454545455,22
+"206","Eliot, George","Middlemarch","Mr Bulstrode","person",2.11333333333333,150
+"207","Eliot, George","Middlemarch","Mr Cadwallader","person",3.75,16
+"208","Eliot, George","Middlemarch","Mr Casaubon","person",1.89847715736041,394
+"209","Eliot, George","Middlemarch","Mr Chichely","person",3.46153846153846,13
+"210","Eliot, George","Middlemarch","Mr Clintup","person",1,2
+"211","Eliot, George","Middlemarch","Mr Crabbe","person",-2,2
+"212","Eliot, George","Middlemarch","Mr Dill","person",1.66666666666667,3
+"213","Eliot, George","Middlemarch","Mr Featherstone","person",1.83333333333333,48
+"214","Eliot, George","Middlemarch","Mr Fred","person",4,1
+"215","Eliot, George","Middlemarch","Mr Garth","person",1.41071428571429,56
+"216","Eliot, George","Middlemarch","Mr Hackbutt","person",3.33333333333333,9
+"217","Eliot, George","Middlemarch","Mr Hawley","person",-0.105263157894737,38
+"218","Eliot, George","Middlemarch","Mr Horrock","person",1,7
+"219","Eliot, George","Middlemarch","Mr Jonah","person",5.5,4
+"220","Eliot, George","Middlemarch","Mr Larcher","person",3,4
+"221","Eliot, George","Middlemarch","Mr Limp","person",1.33333333333333,3
+"222","Eliot, George","Middlemarch","Mr Mawmsey","person",2.61538461538462,13
+"223","Eliot, George","Middlemarch","Mr Ned Plymdale","person",4.35714285714286,14
+"224","Eliot, George","Middlemarch","Mr Powderell","person",5.57142857142857,7
+"225","Eliot, George","Middlemarch","Mr Rigg","person",-0.111111111111111,9
+"226","Eliot, George","Middlemarch","Mr Solomon","person",3.88888888888889,9
+"227","Eliot, George","Middlemarch","Mr Standish","person",5.41176470588235,17
+"228","Eliot, George","Middlemarch","Mr Thesiger","person",1.75,8
+"229","Eliot, George","Middlemarch","Mr Toller","person",0.263157894736842,19
+"230","Eliot, George","Middlemarch","Mr Trumbull","person",1.59090909090909,22
+"231","Eliot, George","Middlemarch","Mr Tyke","person",0.705882352941177,17
+"232","Eliot, George","Middlemarch","Mr Vincy","person",2.63636363636364,77
+"233","Eliot, George","Middlemarch","Mr Wrench","person",-2.30434782608696,23
+"234","Eliot, George","Middlemarch","Mr. Camden Farebrother","person",1.32679738562091,153
+"235","Eliot, George","Middlemarch","Mr. Dagley","person",0.714285714285714,21
+"236","Eliot, George","Middlemarch","Mrs Abel","person",-0.785714285714286,14
+"237","Eliot, George","Middlemarch","Mrs Bulstrode","person",1.28571428571429,56
+"238","Eliot, George","Middlemarch","Mrs Cadwallader","person",2.04705882352941,85
+"239","Eliot, George","Middlemarch","Mrs Carter","person",2.33333333333333,3
+"240","Eliot, George","Middlemarch","Mrs Casaubon","person",2.44285714285714,70
+"241","Eliot, George","Middlemarch","Mrs Dollop","person",-0.444444444444444,9
+"242","Eliot, George","Middlemarch","Mrs Farebrother","person",3.68421052631579,19
+"243","Eliot, George","Middlemarch","Mrs Garth","person",1.16091954022989,87
+"244","Eliot, George","Middlemarch","Mrs Hackbutt","person",0.727272727272727,11
+"245","Eliot, George","Middlemarch","Mrs Kell","person",-0.333333333333333,3
+"246","Eliot, George","Middlemarch","Mrs Lemon","person",7.22222222222222,9
+"247","Eliot, George","Middlemarch","Mrs Lydgate","person",3.3,20
+"248","Eliot, George","Middlemarch","Mrs Mawmsey","person",0.875,8
+"249","Eliot, George","Middlemarch","Mrs Mengan","person",3,1
+"250","Eliot, George","Middlemarch","Mrs Plymdale","person",1.22727272727273,22
+"251","Eliot, George","Middlemarch","Mrs Sprague","person",1.5,4
+"252","Eliot, George","Middlemarch","Mrs Taft","person",1.25,4
+"253","Eliot, George","Middlemarch","Mrs Vincy","person",1.55555555555556,54
+"254","Eliot, George","Middlemarch","Mrs Waule","person",3.6,30
+"255","Eliot, George","Middlemarch","Nancy Nash","person",-8.8,5
+"256","Eliot, George","Middlemarch","Napoleon","person",-3,1
+"257","Eliot, George","Middlemarch","Nash","person",-11,3
+"258","Eliot, George","Middlemarch","New Jerusalem","location",-4,1
+"259","Eliot, George","Middlemarch","New Light","location",-1,2
+"260","Eliot, George","Middlemarch","New York","location",9,2
+"261","Eliot, George","Middlemarch","Nice","location",2.34615384615385,26
+"262","Eliot, George","Middlemarch","Nicholas Bulstrode","person",2.5,8
+"263","Eliot, George","Middlemarch","Nick","person",1,9
+"264","Eliot, George","Middlemarch","Objection","person",-0.975,40
+"265","Eliot, George","Middlemarch","Opera","person",3.33333333333333,9
+"266","Eliot, George","Middlemarch","Padua","location",0,1
+"267","Eliot, George","Middlemarch","Paradise","person",-2.4,5
+"268","Eliot, George","Middlemarch","Paris","location",2.68115942028985,69
+"269","Eliot, George","Middlemarch","Park","location",1.90909090909091,11
+"270","Eliot, George","Middlemarch","Parliament","location",2.61904761904762,21
+"271","Eliot, George","Middlemarch","Paul","person",2.5,2
+"272","Eliot, George","Middlemarch","Pepper","person",10,1
+"273","Eliot, George","Middlemarch","Peru","location",-0.75,4
+"274","Eliot, George","Middlemarch","Peter Featherstone","person",1.76086956521739,46
+"275","Eliot, George","Middlemarch","Phoenix","location",6.5,2
+"276","Eliot, George","Middlemarch","Pilgrim","person",2,3
+"277","Eliot, George","Middlemarch","Pills","person",-8.5,2
+"278","Eliot, George","Middlemarch","Pink","person",5.6875,16
+"279","Eliot, George","Middlemarch","Pippin","person",-1,1
+"280","Eliot, George","Middlemarch","Plutarch","person",12,1
+"281","Eliot, George","Middlemarch","Pluto","person",30,1
+"282","Eliot, George","Middlemarch","Prague","location",1.55555555555556,18
+"283","Eliot, George","Middlemarch","Pratt","person",3.25,8
+"284","Eliot, George","Middlemarch","Prince","location",3.83333333333333,6
+"285","Eliot, George","Middlemarch","Prior","person",4,2
+"286","Eliot, George","Middlemarch","Providence","location",3.25,20
+"287","Eliot, George","Middlemarch","Pug","person",1,7
+"288","Eliot, George","Middlemarch","Queens","location",2,1
+"289","Eliot, George","Middlemarch","Raffles","person",-0.543478260869565,138
+"290","Eliot, George","Middlemarch","Rector","location",3.01818181818182,55
+"291","Eliot, George","Middlemarch","Robert","person",1.5,2
+"292","Eliot, George","Middlemarch","Robert Brown","person",0,1
+"293","Eliot, George","Middlemarch","Rome","location",3.26829268292683,41
+"294","Eliot, George","Middlemarch","Rosamond Vincy","person",1.66961651917404,678
+"295","Eliot, George","Middlemarch","Rose","person",1.42105263157895,57
+"296","Eliot, George","Middlemarch","Rosy","person",2.57894736842105,38
+"297","Eliot, George","Middlemarch","Saint Bonaventure","person",1,1
+"298","Eliot, George","Middlemarch","Saint Catherine","person",15,1
+"299","Eliot, George","Middlemarch","Saint Martin","person",1,2
+"300","Eliot, George","Middlemarch","Saint Theresa","person",3,3
+"301","Eliot, George","Middlemarch","Saint Thomas Aquinas","person",22,2
+"302","Eliot, George","Middlemarch","Sally","person",6,1
+"303","Eliot, George","Middlemarch","Salt","location",-1,1
+"304","Eliot, George","Middlemarch","Samuel","person",-6,1
+"305","Eliot, George","Middlemarch","San","location",2.33014354066986,209
+"306","Eliot, George","Middlemarch","Santa Barbara","location",12,1
+"307","Eliot, George","Middlemarch","Santa Clara","location",-3.66666666666667,3
+"308","Eliot, George","Middlemarch","Santa Lucia","location",-8,1
+"309","Eliot, George","Middlemarch","Sara","person",1.66666666666667,6
+"310","Eliot, George","Middlemarch","Sarah","person",6,2
+"311","Eliot, George","Middlemarch","Sarah Dunkirk","person",-3,2
+"312","Eliot, George","Middlemarch","Saul","person",-2,1
+"313","Eliot, George","Middlemarch","Scales","person",4.5,4
+"314","Eliot, George","Middlemarch","Scorn","person",-1.18181818181818,22
+"315","Eliot, George","Middlemarch","Scotland","location",-6,1
+"316","Eliot, George","Middlemarch","Scott","person",11,4
+"317","Eliot, George","Middlemarch","Selina","person",0.5,4
+"318","Eliot, George","Middlemarch","Shakespeare","person",-1,1
+"319","Eliot, George","Middlemarch","Shelley","person",4.5,2
+"320","Eliot, George","Middlemarch","Sir James","person",3.08016877637131,237
+"321","Eliot, George","Middlemarch","Sister Martha","person",4,7
+"322","Eliot, George","Middlemarch","Solomon","location",2.76,50
+"323","Eliot, George","Middlemarch","Solomon","person",2.76,50
+"324","Eliot, George","Middlemarch","Solomon Featherstone","person",-1,3
+"325","Eliot, George","Middlemarch","South","location",0.444444444444444,9
+"326","Eliot, George","Middlemarch","Stanley","person",-2,1
+"327","Eliot, George","Middlemarch","Stone Court","location",-0.153846153846154,65
+"328","Eliot, George","Middlemarch","Susan Garth","person",2.42105263157895,19
+"329","Eliot, George","Middlemarch","Taft","person",2.8,5
+"330","Eliot, George","Middlemarch","Taylor","person",3,1
+"331","Eliot, George","Middlemarch","Tertius Lydgate","person",1.45803357314149,834
+"332","Eliot, George","Middlemarch","Thomas","person",14.4,5
+"333","Eliot, George","Middlemarch","Thomas Aquainas","person",2,1
+"334","Eliot, George","Middlemarch","Thomas Aquinas","person",21.3333333333333,3
+"335","Eliot, George","Middlemarch","Thomas Browne","person",6,1
+"336","Eliot, George","Middlemarch","Timothy","person",2,3
+"337","Eliot, George","Middlemarch","Timothy Cooper","person",3,1
+"338","Eliot, George","Middlemarch","Todd","person",1.66666666666667,3
+"339","Eliot, George","Middlemarch","Truberry","person",6,2
+"340","Eliot, George","Middlemarch","Tucker","person",3.22222222222222,9
+"341","Eliot, George","Middlemarch","Turkey","location",2,1
+"342","Eliot, George","Middlemarch","Venetian","person",15,1
+"343","Eliot, George","Middlemarch","Vienna","location",2,1
+"344","Eliot, George","Middlemarch","Wakefield","location",2,1
+"345","Eliot, George","Middlemarch","Walter","person",6.85714285714286,7
+"346","Eliot, George","Middlemarch","Walter Scott","person",14.6666666666667,3
+"347","Eliot, George","Middlemarch","Walter Tyke","person",0,1
+"348","Eliot, George","Middlemarch","Warren Hastings","person",4,1
+"349","Eliot, George","Middlemarch","Waterloo","location",8,1
+"350","Eliot, George","Middlemarch","Wellington","location",12,4
+"351","Eliot, George","Middlemarch","Whig","person",4.11111111111111,9
+"352","Eliot, George","Middlemarch","Whiggish","person",7,2
+"353","Eliot, George","Middlemarch","White Hart","location",24,1
+"354","Eliot, George","Middlemarch","Will Ladislaw","person",1.2198275862069,232
+"355","Eliot, George","Middlemarch","Will LadislawI","person",-3,1
+"356","Eliot, George","Middlemarch","William","person",1,1
+"357","Eliot, George","Middlemarch","Willoughby","person",1,1
+"358","Eliot, George","Middlemarch","Windsor","location",45,1
+"359","Eliot, George","Middlemarch","Winifred","person",7.71428571428571,7
+"360","Eliot, George","Middlemarch","Winifred Farebrother","person",36,1
+"361","Eliot, George","Middlemarch","Wordsworth","person",3,1
+"362","Eliot, George","Middlemarch","Wright","person",3,1
+"363","Eliot, George","Middlemarch","Yap","person",12,2
+"364","Eliot, George","Middlemarch","York","location",5.2,5
+"365","Eliot, George","Middlemarch","Yorkshire","location",6,1
+"366","Eliot, George","Middlemarch",NA,NA,0.374224343675418,4190
